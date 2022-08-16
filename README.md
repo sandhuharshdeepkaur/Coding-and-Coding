@@ -5,7 +5,7 @@
 "Anyone who can write some code that compiles and runs, which will do something they want when it’s given the right inputs."
 ~ Mike Jackson. </h2>
 
-<h4>Do you know the difference between Coder and Programmer?</h4>
+<h3>Do you know the difference between Coder and Programmer?</h3>
 
 - Coder is considered as the least trained or experienced level of programmer. They are usually given tasks that are pretty straightforward to write code. If you heard Junior Developer or Junior Programmer you can call then Coder.
 
