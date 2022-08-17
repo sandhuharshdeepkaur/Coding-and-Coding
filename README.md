@@ -11,4 +11,4 @@
 
 - Programmers are involved in a specific part of the project. A programmer is someone who writes/creates computer software or applications by the given set of programming instructions.
 
-- Then comes the Developers.
+- Then comes the Developers. They are involved with a greater understanding of the full project scope. A developer is an individual that builds and creates software and applications. He or she writes, debugs, and executes the source code of a software application. The developer also knows as Software Developer, Software Engineer, Computer Programmer, Programmer, or Software Coder.
