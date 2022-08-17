@@ -8,14 +8,16 @@ public class Average {
     public static void main(String args[]) {
 
         // Input for 3 numbers
-        Scanner scan = new Scanner(System.in);
-        int A = scan.nextInt();
-        int B = scan.nextInt();
-        int C = scan.nextInt();
+        try (Scanner scan = new Scanner(System.in)) {
 
-        // Calculating Average
-        int Average = (A + B + C) / 3;
-        System.out.println(Average);
+            int A = scan.nextInt();
+            int B = scan.nextInt();
+            int C = scan.nextInt();
+
+            // Calculating Average
+            int Average = (A + B + C) / 3;
+            System.out.println(Average);
+        }
     }
 
 }
