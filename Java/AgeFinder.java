@@ -1,6 +1,6 @@
 package Java;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class AgeFinder {
 
