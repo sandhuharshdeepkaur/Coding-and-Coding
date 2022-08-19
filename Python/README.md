@@ -23,6 +23,8 @@ print(x)
 
 • Beginner friendly :): Python's syntax and structure are very intuitive. It is high level and provides constructs intended to enable writing clear programs on both a small and large scale. Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles. It has a large, comprehensive standard library and many easy-to-install 3rd party libraries.
 
-In this section some basic coodes are added for practising and uderstanding of the Python codes.
+In this section various basic coodes are added for practising and uderstanding of the Python codes.
+
+A roadmap to learn Python is added below for better approach.
 
 <img alt = "Pythonroadmap"  src = "https://infinite.education/media/expertise/I1oluXFEEyyRjlWfFrieN6UW.png">
