@@ -27,4 +27,4 @@ In this section various basic coodes are added for practising and uderstanding o
 
 A roadmap to learn Python is added below for better approach.
 
-<img alt = "Pythonroadmap"  src = "https://infinite.education/media/expertise/I1oluXFEEyyRjlWfFrieN6UW.png">
+<img alt = "Pythonroadmap"  height ="800" width="800" src = "https://infinite.education/media/expertise/I1oluXFEEyyRjlWfFrieN6UW.png">
