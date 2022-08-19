@@ -1,7 +1,7 @@
 <h1> Basics of Python Programming Language </h1>
 
 <h3>So the question is Why Python?</h3>
-
+<img align = "right" alt = "Why Python?" width = "300" src = "https://www.aceinfoway.com/blog/wp-content/uploads/2020/03/why-python-is-so-popular-400x205.jpg">
 Python is a widely used programming language. 
 It is:
 
