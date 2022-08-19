@@ -25,4 +25,4 @@ print(x)
 
 In this section some basic coodes are added for practising and uderstanding of the Python codes.
 
-<img alt = "Pythonroadmap" height = "800" width = "800" src = "https://infinite.education/media/expertise/I1oluXFEEyyRjlWfFrieN6UW.png">
+<img alt = "Pythonroadmap"  src = "https://infinite.education/media/expertise/I1oluXFEEyyRjlWfFrieN6UW.png">
