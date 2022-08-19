@@ -5,7 +5,7 @@
 
 Python is a widely used programming language. 
 
-It is:
+Beacause it is:
 
 • High-level: Python automates low-level operations such as memory management. It leaves the programmer with a bit less control but has many benefits including code readability and minimal code expressions.
 
