@@ -5,6 +5,7 @@
 Python is a widely used programming language. 
 It is:
 
+
 • High-level: Python automates low-level operations such as memory management. It leaves the programmer with a bit less control but has many benefits including code readability and minimal code expressions.
 
 • General-purpose: Python is built to be used in all contexts and environments. An example for a non-general-purpose language is PHP.
