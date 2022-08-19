@@ -1,10 +1,11 @@
 <h1> Basics of Python Programming Language </h1>
 
-<h3>So the question is Why Python?</h3>
+<h3>So the question is, "Why Python?"</h3>
 <img align = "right" alt = "Why Python?" width = "300" src = "https://tse3.mm.bing.net/th?id=OIP.iZGLiv2jMrM-46MqrjgwqwHaE8&pid=Api&P=0">
-Python is a widely used programming language. 
-It is:
 
+Python is a widely used programming language. 
+
+It is:
 
 • High-level: Python automates low-level operations such as memory management. It leaves the programmer with a bit less control but has many benefits including code readability and minimal code expressions.
 
