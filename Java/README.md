@@ -1,3 +1,6 @@
+<img alt = "Java" height = 400 width = 1000 src = "https://www.soais.com/wp-content/uploads/2021/06/OOPs-Concept-in-Java.png">
+
+
 <h1> Java Programming Language </h1>
 
 <h3>What is Java and Why Do we need it?</h3>
@@ -10,5 +13,5 @@
 
 In this section various codes are added for better understanding of Java Language.
 
-<img src = "https://www.soais.com/wp-content/uploads/2021/06/OOPs-Concept-in-Java.png">
+
 
