@@ -1,4 +1,7 @@
-<h1> Basics of Python Programming Language </h1>
+
+<img src = "https://cheaptraining.com/wp-content/uploads/2020/10/pythonbundle-1-2.png">
+
+<h1> Python Programming Language </h1>
 
 <h3>So the question is, "Why Python?"</h3>
 <img align = "right" alt = "Why Python?" width = "300" src = "https://tse3.mm.bing.net/th?id=OIP.iZGLiv2jMrM-46MqrjgwqwHaE8&pid=Api&P=0">
