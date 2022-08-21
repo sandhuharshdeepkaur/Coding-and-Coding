@@ -1,5 +1,6 @@
-<div class = "cropped"> 
-<img alt = "Python" height = 500 width = 1000 src = "https://i.pinimg.com/originals/3b/dc/83/3bdc83cce8b47695771a06db51a75128.jpg"></div>
+ 
+<img alt = "Python" height = 500 width = 1000 src = "https://i.pinimg.com/originals/3b/dc/83/3bdc83cce8b47695771a06db51a75128.jpg">
+
 
 <h1> Python Programming Language </h1>
 
