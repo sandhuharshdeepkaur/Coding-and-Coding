@@ -1,5 +1,5 @@
 
-<img alt = "Python" height = 700 width = 900 src = "https://cheaptraining.com/wp-content/uploads/2020/10/pythonbundle-1-2.png">
+<img alt = "Python" height = 600 width = 1000 src = "https://cheaptraining.com/wp-content/uploads/2020/10/pythonbundle-1-2.png">
 
 <h1> Python Programming Language </h1>
 
