@@ -6,13 +6,13 @@ public class EvenOdd {
 
     // Program to find Even Odd numbers
     public static void main(String args[]) {
-        // Input a number
-        try (Scanner sc = new Scanner(System.in);) {
+        
+        try (Scanner sc = new Scanner(System.in);) {                   // Input a number
             System.out.println("Enter a number:");
             int number = sc.nextInt();
 
-            // Using Ternery Operator
-            String type = ((number % 2) == 0) ? "Even" : "Odd";
+            
+            String type = ((number % 2) == 0) ? "Even" : "Odd";        // Using Ternery Operator
 
             System.out.println(type);
         }

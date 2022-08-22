@@ -7,8 +7,7 @@ public class Average {
     // Program to find Average of 3 Integers
     public static void main(String args[]) {
 
-        // Input for 3 numbers
-        try (Scanner scan = new Scanner(System.in)) {
+        try (Scanner scan = new Scanner(System.in)) {     // Input for 3 numbers
 
             System.out.println("Enter value of A:");
             int A = scan.nextInt();
@@ -19,8 +18,8 @@ public class Average {
             System.out.println("Enter value of C:");
             int C = scan.nextInt();
 
-            // Calculating Average
-            int Average = (A + B + C) / 3;
+            
+            int Average = (A + B + C) / 3;               // Calculating Average
             System.out.println(Average);
         }
     }

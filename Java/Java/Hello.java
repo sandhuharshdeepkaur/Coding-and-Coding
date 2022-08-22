@@ -7,15 +7,13 @@ public class Hello {
     // Program to Hello to the viewer
     public static void main(String args[]) {
 
-        // Calling Scanner Funtion for Input
-        try (Scanner var = new Scanner(System.in)) {
+        
+        try (Scanner var = new Scanner(System.in)) {                                       // Calling Scanner Funtion for Input
             System.out.println("Are You a Java Coder? Press 1 for Yes or 0:");
 
-            // Input Variable type
-            int Input = var.nextInt();
+            int Input = var.nextInt();                                                    // Input Variable type
 
-            // For specified output
-            if (Input == 1) {
+            if (Input == 1) {                                                            // For specified output
                 System.out.println("High Five to you buddy! Keep Going!!");
             } else {
                 System.out.println("Hello You! No problem. You are on right path.");
