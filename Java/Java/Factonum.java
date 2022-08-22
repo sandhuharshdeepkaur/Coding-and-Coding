@@ -1,29 +1,23 @@
 package Java;
 
-import java.util.*;
 
 public class Factonum{
 
     // Program to find Factorial of a given number:
 
-    public static void main(String args[]){
+    public static int factorial(int n){
+        int Fact = 1;                                                                 // Initialising Factorial Variable     
 
-        try (Scanner abc = new Scanner (System.in)) {                                      // Input for number
+        for (int i = 1; i <= n; i++){                                                 // For loop to calculate i variable  
+            
+            Fact *= i;                                                                // Storing value to Fact after Fact*i
+        }    
+        return Fact;                                                                 // Returning the factorial value
+    }
 
-            System.out.println("Enter a Number to find it's Factorial:");
-            int num1 = abc.nextInt();                                         
-            int Fact = 1;                                                                 // Initialising Factorial Variable     
+    public static void main(String arg[]){ 
 
-            for (int i = 1; i <= num1; i++){                                             // For loop to calculate i variable  
-                
-                Fact *= i;                                                              // Storing value to Fact after Fact*i
-
-                System.out.println("Factorial of " + num1 + " number is : " + Fact);   // Printing the Factorial of a number
+                System.out.println(factorial(4));                                   // Printing the Factorial of a number
             } 
 
-
-
-        } 
     }
-}
-
