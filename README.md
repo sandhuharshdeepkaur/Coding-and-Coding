@@ -5,7 +5,7 @@
 "Anyone who can write some code that compiles and runs, which will do something they want when it’s given the right inputs."
 ~ Mike Jackson. </h2>
 
-<img align = center alt = "Coding with Coffee" height = 400 width = 700 src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align = center alt = "Coding with Coffee" src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <h3>Do you know the difference between Coder and Programmer?</h3>
 
