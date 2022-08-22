@@ -12,9 +12,9 @@ public class EvenOdd {
             int number = sc.nextInt();
 
             
-            String type = ((number % 2) == 0) ? "Even" : "Odd";        // Using Ternery Operator
+            String type = ((number % 2) == 0) ? "Even" : "Odd";        // Using Ternery Operator to find the even-odd numbers
 
-            System.out.println(type);
+            System.out.println(type);                                  // Printing out the Output
         }
     }
 
