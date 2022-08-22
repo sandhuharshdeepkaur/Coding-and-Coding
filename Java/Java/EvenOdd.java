@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class EvenOdd {
 
     // Program to find Even Odd numbers
+    
     public static void main(String args[]) {
         
         try (Scanner sc = new Scanner(System.in);) {                   // Input a number

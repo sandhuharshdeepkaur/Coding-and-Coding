@@ -5,6 +5,7 @@ import java.util.*;
 public class Average {
 
     // Program to find Average of 3 Integers
+    
     public static void main(String args[]) {
 
         try (Scanner scan = new Scanner(System.in)) {     // Input for 3 numbers

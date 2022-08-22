@@ -5,6 +5,7 @@ import java.util.*;
 public class Areaofsquare {
 
     // Program to find Area of Square
+    
     public static void main(String agrs[]) {
 
         

@@ -5,6 +5,7 @@ import java.util.*;
 public class Calculator {
 
     // Program to make a calculator in simple way
+    
     public static void main(String args[]) {
         try (Scanner sc = new Scanner(System.in)) {            // Getting input of the numbers
             System.out.println("Enter First Number:");

@@ -5,6 +5,7 @@ import java.util.*;
 public class AgeFinder {
 
     //Program to find Age range of the user
+    
     public static void main(String args[]) {
         
         try (Scanner sc = new Scanner(System.in)) {                 // Getting input of Age from viewer

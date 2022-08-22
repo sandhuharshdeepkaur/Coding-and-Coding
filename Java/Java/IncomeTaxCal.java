@@ -5,6 +5,7 @@ import java.util.*;
 public class IncomeTaxCal {
 
     // Program to print Income Tax deducted on the salary 
+    
     public static void main(String args[]) {
         int tax;                                                     // Initializing variable
         try (Scanner var = new Scanner(System.in)) {                // Input for salary

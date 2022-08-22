@@ -6,6 +6,7 @@ import java.util.*;
 public class printmtonnum{
 
     // Program to print numbers from m to n
+    
     public static void main(String args[]){
 
         
