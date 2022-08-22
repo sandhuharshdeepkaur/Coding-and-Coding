@@ -12,7 +12,7 @@ public class printmtonnum{
             int m = sc.nextInt();
 
             
-            System.out.println("Enter the nth number of the series:"); // Input for n number:
+            System.out.println("Enter the nth number of the series:");  // Input for n number:
             int n = sc.nextInt();
 
             
