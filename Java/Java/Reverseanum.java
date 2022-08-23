@@ -2,6 +2,8 @@ package Java;
 
 import java.util.*;
 
+// Program to print Reverse of the given number
+
 public class Reverseanum{
     public static void main(String args[]){
         try(Scanner sc = new Scanner(System.in)){
