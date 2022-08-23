@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Program to Swap the numbers
 
-public class swap {
+public class Swap{
     
     public static void swapnum (int num1 , int num2){         // Swap function
 

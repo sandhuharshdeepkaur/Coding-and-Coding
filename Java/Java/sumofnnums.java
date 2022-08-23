@@ -4,7 +4,7 @@ import java.util.*;
 
 // Program to write Sum of n Numbers:
 
-public class sumofnnums {
+public class Sumofnnums {
 
     public static int sumofnum(){
         try (Scanner sc = new  Scanner(System.in)) {
