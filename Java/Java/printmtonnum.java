@@ -3,7 +3,7 @@ package Java;
 import java.util.*;
 
 
-public class printmtonnum{
+public class Printmtonnum{
 
     // Program to print numbers from m to n
     
