@@ -9,14 +9,14 @@ public class Primenum{
     public static void main(String args[]){
 
     try(Scanner sc = new Scanner(System.in)){           
-        System.out.println("Enter a number:");                              // Input for the number
-        int n = sc.nextInt();                                                 // Initializing input as integer
+        System.out.println("Enter a number:");                               // Input for the number
+        int n = sc.nextInt();                                                  // Initializing input as integer
 
-            boolean isPrime = true;                                         // Boolean variable set on true
+            boolean isPrime = true;                                          // Boolean variable set on true
 
-            for (int i = 2; i <= n-1; i++){                               // For loop to initialize the i value
-                if (n % i == 0){                                         // If conditionn to check the prime number    
-                    isPrime = false;                                    // Boolean value if the condition is true
+            for (int i = 2; i <= Math.sqrt(n); i++){                       // For loop to initialize the i value
+                if (n % i == 0){                                          // If conditionn to check the prime number    
+                    isPrime = false;                                     // Boolean value if the condition is true
                 }
             }
             if (isPrime == true){
