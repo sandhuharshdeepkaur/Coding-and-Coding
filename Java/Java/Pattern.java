@@ -13,7 +13,7 @@ public class Pattern {
         }
     }
 
-    public static void pattern2(){              // Function to find Half Pyramid of Numbers
+    public static void pattern3(){              // Function to find Half Pyramid of Numbers
         for (int i = 1; i <= 5; i++){          // Outer loop for lines
             for (int n = 1; n <= i; n++){     // Inner loop for numbers
                 System.out.print(i);         // Printing the numbers
@@ -22,11 +22,23 @@ public class Pattern {
         }
     }
 
-    public static void pattern3(){              // Function to find Half Pyramid of Numbers
+    public static void pattern2(){              // Function to find Half Pyramid of Numbers
         int n = 4;
         for (int i = 1; i <= n; i++){
             for(int s = 1; s <= (n-i+1); s++){
                 System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void pattern4(){
+        int n = 4;
+        char ch = 'A'; 
+        for (int i = 1; i <= n; i++){
+            for (int chars = 1; chars <= i; chars++){
+                System.out.print(ch);
+                ch++;
             }
             System.out.println();
         }
@@ -36,6 +48,7 @@ public class Pattern {
         pattern1();
         pattern2();
         pattern3();
+        pattern4();
     }
 }  
 
