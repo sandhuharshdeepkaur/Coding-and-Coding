@@ -44,11 +44,24 @@ public class Pattern {
         }
     }
     
+    public static void pattern5(){
+        int n = 10;
+        for (int i = 1; i <= n; i++){
+            for (int s = 1; s <= i; s++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
+    
+
     public static void main(String args[]){
         pattern1();
         pattern2();
         pattern3();
         pattern4();
+        pattern5();
     }
 }  
 
