@@ -54,7 +54,15 @@ public class Pattern {
         }
     }
 
-    
+    public static void pattern6(){
+        int n = 10;
+        for(int i = 1; i <= n; i++){
+            for (int s = 1; s <= (n-i+1); s++){
+                System.out.print("*");
+            }
+            System.out.println();
+        } 
+    }
 
     public static void main(String args[]){
         pattern1();
@@ -62,6 +70,7 @@ public class Pattern {
         pattern3();
         pattern4();
         pattern5();
+        pattern6();
     }
 }  
 
