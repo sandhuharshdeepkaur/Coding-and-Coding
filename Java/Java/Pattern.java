@@ -4,7 +4,7 @@ package Java;
 
 public class Pattern {
 
-    public static void pattern1(){               // Fuction to Print Half Pyramid of Stars
+    public static void pattern1(){               // Method to Print Half Pyramid of Stars
         for (int i = 1; i <= 4; i++){           // For loop used for the lines
             for (int s = 1; s <= i; s++){      // For loop used for the Stars  
                 System.out.print("*");      // Printing the Stars
@@ -13,7 +13,7 @@ public class Pattern {
         }
     }
 
-    public static void pattern3(){              // Function to find Half Pyramid of Numbers
+    public static void pattern3(){              // Method to find Half Pyramid of Numbers
         for (int i = 1; i <= 5; i++){          // Outer loop for lines
             for (int n = 1; n <= i; n++){     // Inner loop for numbers
                 System.out.print(i);         // Printing the numbers
@@ -22,29 +22,29 @@ public class Pattern {
         }
     }
 
-    public static void pattern2(){              // Function to find Half Pyramid of Numbers
-        int n = 4;
-        for (int i = 1; i <= n; i++){
-            for(int s = 1; s <= (n-i+1); s++){
-                System.out.print("*");
+    public static void pattern2(){                     // Method to find Half Pyramid of Numbers
+        int n = 4;                                    // Taking input
+        for (int i = 1; i <= n; i++){                // Outer loop for lines 
+            for(int s = 1; s <= (n-i+1); s++){      // Inner loop for stars
+                System.out.print("*");           // Printing the stars
             }
-            System.out.println();
+            System.out.println();                 // Next line
         }
     }
 
-    public static void pattern4(){
-        int n = 4;
-        char ch = 'A'; 
-        for (int i = 1; i <= n; i++){
-            for (int chars = 1; chars <= i; chars++){
-                System.out.print(ch);
-                ch++;
+    public static void pattern4(){                                    // Method to print Half Pyramid using characters
+        int n = 4;                                                   // Input for character
+        char ch = 'A';                                              // Initializing character starting
+        for (int i = 1; i <= n; i++){                              // Outer loop for lines
+            for (int chars = 1; chars <= i; chars++){             // Inner loop foe characters
+                System.out.print(ch);                            // Printing Characters
+                ch++;                                           // Incrementing characters to avoid repeatation
             }
-            System.out.println();
+            System.out.println();                              // Next line
         }
     }
     
-    public static void pattern5(){
+    public static void pattern5(){                    
         int n = 10;
         for (int i = 1; i <= n; i++){
             for (int s = 1; s <= i; s++){
