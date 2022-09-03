@@ -7,14 +7,14 @@ import java.util.*;
 
 public class Solution {
 
-    public static void main(String[] args) {
-        try (Scanner scan = new Scanner(System.in)) {
-            int a = scan.nextInt();
+    public static void main(String[] args) {                    // Main Function
+        try (Scanner scan = new Scanner(System.in)) {          // Input Function
+            int a = scan.nextInt();                           // Input for Integer datatype
             int b = scan.nextInt();
             int c = scan.nextInt();
             
 
-            System.out.println(a);
+            System.out.println(a);                          // Printing the Output
             System.out.println(b);
             System.out.println(c);
         }
