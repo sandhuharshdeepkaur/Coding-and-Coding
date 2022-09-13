@@ -5,7 +5,9 @@ package Java;
 public class Pattern {
 
     public static void pattern1(){               // Method to Print Half Pyramid of Stars
-        for (int i = 1; i <= 4; i++){           // For loop used for the lines
+        
+        int n = 5;
+        for (int i = 1; i <= n; i++){           // For loop used for the lines
             for (int s = 1; s <= i; s++){      // For loop used for the Stars  
                 System.out.print("*");      // Printing the Stars
             }
@@ -66,10 +68,15 @@ public class Pattern {
 
     public static void main(String args[]){
         pattern1();
+
         pattern2();
+        
         pattern3();
+        
         pattern4();
+        
         pattern5();
+        
         pattern6();
     }
 }  
