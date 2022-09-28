@@ -6,11 +6,9 @@ import java.util.*;
 
 public class Primenum{
 
-    //public static void main(String args[]){
+    /* public static void main(String args[]){
 
-        // Approach 1:
-
-     try(Scanner sc = new Scanner(System.in)){           
+    try(Scanner sc = new Scanner(System.in)){           
         System.out.println("Enter a number:");                               // Input for the number
         int n = sc.nextInt();                                                  // Initializing input as integer
 
@@ -27,26 +25,22 @@ public class Primenum{
                 System.out.println(n + " is Not a Prime Number.");   // Printing the Non Prime Numbers
             }
         }
-    
+} */
 
-    // Approach 2:
-
-    public static int  isPrime(int n){
-
-        if(n % 2 == 0){
-            System.out.println(n + " is a Prime Number.");
-        }else{
-        System.out.println(n+ " is NOt a Prime number.");
-        }
-    return n;
-
-}
-
-        public static void main (String args[]){
-            try(Scanner sc = new Scanner(System.in)){
-                System.out.println("Enter a number:");
-                int n = sc.nextInt();
-                isPrime(n);
+    public static void main(String args[]){
+        int n = 4;
+        for(int i = 2; i<= Math.sqrt(n); i++){
+            if (n % i == 0){
+                System.out.println(n + " is not prime");
             }
-        }
+            }
+        
+                System.out.println(n + " is prime");
+        
+    }
 }
+
+
+
+
+
