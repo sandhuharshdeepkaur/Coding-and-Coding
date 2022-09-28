@@ -14,6 +14,9 @@ public class Primenum{
 
             boolean isPrime = true;                                          // Boolean variable set on true
 
+            if(n == 0 || n == 1){
+                System.out.println(n+ " Nor Prime Neither Composite.");
+            }else{
             for (int i = 2; i <= Math.sqrt(n); i++){                       // For loop to initialize the i value
                 if (n % i == 0){                                          // If conditionn to check the prime number    
                     isPrime = false;                                     // Boolean value if the condition is true
@@ -25,6 +28,7 @@ public class Primenum{
                 System.out.println(n + " is Not a Prime Number.");   // Printing the Non Prime Numbers
             }
         }
+    }
 } 
 }
 
