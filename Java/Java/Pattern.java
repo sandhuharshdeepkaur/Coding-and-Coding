@@ -16,8 +16,9 @@ public class Pattern {
     }
 
     public static void pattern3(){              // Method to find Half Pyramid of Numbers
-        for (int i = 1; i <= 5; i++){          // Outer loop for lines
-            for (int n = 1; n <= i; n++){     // Inner loop for numbers
+        int n = 5;
+        for (int i = 1; i <= n; i++){          // Outer loop for lines
+            for (int j = 1; j <= i; j++){     // Inner loop for numbers
                 System.out.print(i);         // Printing the numbers
             }
             System.out.println();           // Going to next line 
@@ -25,7 +26,7 @@ public class Pattern {
     }
 
     public static void pattern2(){                     // Method to find Half Pyramid of Numbers
-        int n = 4;                                    // Taking input
+        int n = 5;                                    // Taking input
         for (int i = 1; i <= n; i++){                // Outer loop for lines 
             for(int s = 1; s <= (n-i+1); s++){      // Inner loop for stars
                 System.out.print("*");           // Printing the stars
@@ -35,7 +36,7 @@ public class Pattern {
     }
 
     public static void pattern4(){                                    // Method to print Half Pyramid using characters
-        int n = 4;                                                   // Input for character
+        int n = 5;                                                   // Input for character
         char ch = 'A';                                              // Initializing character starting
         for (int i = 1; i <= n; i++){                              // Outer loop for lines
             for (int chars = 1; chars <= i; chars++){             // Inner loop foe characters
@@ -45,28 +46,8 @@ public class Pattern {
             System.out.println();                              // Next line
         }
     }
-    
-    public static void pattern5(){                    
-        int n = 10;
-        for (int i = 1; i <= n; i++){
-            for (int s = 1; s <= i; s++){
-                System.out.print("*");
-            }
-            System.out.println();
-        }
-    }
 
-    public static void pattern6(){
-        int n = 10;
-        for(int i = 1; i <= n; i++){
-            for (int s = 1; s <= (n-i+1); s++){
-                System.out.print("*");
-            }
-            System.out.println();
-        } 
-    }
-
-    public static void patt(){
+    public static void pattern5(){
 
         int n = 5; 
         
@@ -91,12 +72,8 @@ public class Pattern {
         pattern3();
         
         pattern4();
-        
-        pattern5();
-        
-        pattern6();
 
-        patt();
+        pattern5();
     }
 }  
 
