@@ -1,11 +1,10 @@
  
-<img alt = "Python" height = 500 width = 1000 src = "https://i.pinimg.com/originals/3b/dc/83/3bdc83cce8b47695771a06db51a75128.jpg">
+<img alt = "Python" height = 300 width = 600 src = "https://i.pinimg.com/originals/3b/dc/83/3bdc83cce8b47695771a06db51a75128.jpg">
 
 
 <h1> Python Programming Language </h1>
 
 <h3>So the question is, "Why Python?"</h3>
-<img align = "right" alt = "Why Python?" width = "300" src = "https://tse3.mm.bing.net/th?id=OIP.iZGLiv2jMrM-46MqrjgwqwHaE8&pid=Api&P=0">
 
 Python is a widely used programming language. 
 
@@ -33,4 +32,4 @@ In this section various basic coodes are added for practising and uderstanding o
 
 A roadmap to learn Python is added below for better approach.
 
-<img alt = "Pythonroadmap"  height ="800" width="800" src = "https://infinite.education/media/expertise/I1oluXFEEyyRjlWfFrieN6UW.png">
+<img alt = "Pythonroadmap"  height ="300" width="600" src ="https://infinite.education/media/expertise/I1oluXFEEyyRjlWfFrieN6UW.png">
