@@ -1,4 +1,4 @@
-<img alt = "Java" height = 400 width = 1000 src = "https://www.soais.com/wp-content/uploads/2021/06/OOPs-Concept-in-Java.png">
+<img alt = "Java" height = 300 width = 600 src = "https://www.soais.com/wp-content/uploads/2021/06/OOPs-Concept-in-Java.png">
 
 
 <h1> Java Programming Language </h1>
